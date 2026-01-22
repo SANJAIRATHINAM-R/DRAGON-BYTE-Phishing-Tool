@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-##   MadPhisher : 	Automated Phishing Tool
+##   Dragon Byte : 	Automated Phishing Tool
 ##   Author 	: 	sanjairathinam
 ##   Version 	: 	2.1
 ##   Github 	: 	https://github.com/SANJAIRATHINAM-R
