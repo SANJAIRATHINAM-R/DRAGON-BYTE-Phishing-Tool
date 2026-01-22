@@ -16,5 +16,9 @@ The author is not responsible for misuse.
 ```bash
 git clone https://github.com/SANJAIRATHINAM-R/DRAGON-BYTE-Phishing-Tool.git
 cd DRAGON-BYTE-Phishing-Tool
+bash Dragon-byte.sh 
+## Error between the Installation  
+sudo apt install dos2unix -y
+dos2unix Dragon-byte.sh
+After use 
 bash Dragon-byte.sh
-
